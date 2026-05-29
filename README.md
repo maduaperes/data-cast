@@ -21,4 +21,4 @@ Aqui você encontrará exemplos variados, que podem incluir:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/DataCast.git
+git clone https://github.com/maduaperes/data-cast.git
